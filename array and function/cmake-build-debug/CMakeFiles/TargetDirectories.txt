@@ -1,0 +1,3 @@
+/Users/ductrungnguyen3004/CLionProjects/array and function/cmake-build-debug/CMakeFiles/array_and_function.dir
+/Users/ductrungnguyen3004/CLionProjects/array and function/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ductrungnguyen3004/CLionProjects/array and function/cmake-build-debug/CMakeFiles/rebuild_cache.dir

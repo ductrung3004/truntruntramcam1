@@ -1,0 +1,11 @@
+# ninja log v5
+0	437	1667802475835912854	CMakeFiles/array_and_function.dir/main.cpp.o	3c476d9195e35559
+438	483	1667802475883831230	array_and_function	13ad41fefb5ee746
+10	228	1667802546811291597	CMakeFiles/array_and_function.dir/main.cpp.o	3c476d9195e35559
+228	256	1667802546840651047	array_and_function	13ad41fefb5ee746
+4	455	1667803149182831730	CMakeFiles/array_and_function.dir/main.cpp.o	3c476d9195e35559
+456	499	1667803149228909715	array_and_function	13ad41fefb5ee746
+5	444	1667803471649092610	CMakeFiles/array_and_function.dir/main.cpp.o	3c476d9195e35559
+444	486	1667803471693653687	array_and_function	13ad41fefb5ee746
+4	217	1667803485336859181	CMakeFiles/array_and_function.dir/main.cpp.o	3c476d9195e35559
+218	245	1667803485366007307	array_and_function	13ad41fefb5ee746
